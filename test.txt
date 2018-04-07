@@ -1,2 +1,0 @@
-$wshShell = new-object -comobject "wscript.shell"
-$wshShell.Popup("Miło z twojej strony :)")
